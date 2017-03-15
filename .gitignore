@@ -110,3 +110,6 @@ UpgradeLog*.XML
 # NuGet
 /packages/
 *.nupkg
+/SpotifyAPI
+/SpotifyAPI.Example
+/.vs
